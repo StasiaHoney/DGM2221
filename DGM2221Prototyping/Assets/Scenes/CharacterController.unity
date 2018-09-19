@@ -1960,7 +1960,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-573428
+  m_Name: pb_Mesh4542
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -2106,7 +2106,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-301522
+  m_Name: pb_Mesh4512
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -2400,7 +2400,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &234335883
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2494,7 +2494,7 @@ SphereCollider:
   m_GameObject: {fileID: 531998300}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
@@ -2558,7 +2558,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-380104
+  m_Name: pb_Mesh4436
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -7663,7 +7663,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 127
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!64 &684775435
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13521,7 +13521,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-576308
+  m_Name: pb_Mesh4606
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -13667,7 +13667,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-352458
+  m_Name: pb_Mesh4496
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -14669,7 +14669,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-581266
+  m_Name: pb_Mesh4590
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -20692,7 +20692,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1947859510
 MonoBehaviour:
   m_ObjectHideFlags: 0
