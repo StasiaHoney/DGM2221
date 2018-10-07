@@ -15280,88 +15280,41 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 420431391}
     m_Modifications:
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    - target: {fileID: 4200476156351026, guid: 651cd4f935e5af844875238c58de173e, type: 2}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    - target: {fileID: 4200476156351026, guid: 651cd4f935e5af844875238c58de173e, type: 2}
       propertyPath: m_LocalPosition.y
       value: 0.9
       objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    - target: {fileID: 4200476156351026, guid: 651cd4f935e5af844875238c58de173e, type: 2}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    - target: {fileID: 4200476156351026, guid: 651cd4f935e5af844875238c58de173e, type: 2}
       propertyPath: m_LocalRotation.x
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    - target: {fileID: 4200476156351026, guid: 651cd4f935e5af844875238c58de173e, type: 2}
       propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    - target: {fileID: 4200476156351026, guid: 651cd4f935e5af844875238c58de173e, type: 2}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    - target: {fileID: 4200476156351026, guid: 651cd4f935e5af844875238c58de173e, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    - target: {fileID: 4200476156351026, guid: 651cd4f935e5af844875238c58de173e, type: 2}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1674508000936166, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
-      propertyPath: m_Name
-      value: Trigger
-      objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4965523203126140, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 23077596524782754, guid: c9fb2dab5f103944e8259794cf35f3af,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 65083704240296182, guid: c9fb2dab5f103944e8259794cf35f3af,
-        type: 2}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 114796603379359380, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
-  m_ParentPrefab: {fileID: 100100000, guid: c9fb2dab5f103944e8259794cf35f3af, type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 651cd4f935e5af844875238c58de173e, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &1662105090 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1674508000936166, guid: c9fb2dab5f103944e8259794cf35f3af,
-    type: 2}
-  m_PrefabInternal: {fileID: 1662105089}
---- !u!114 &1662105091
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1662105090}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: efc9a249ef1222c4aa0ccf8ea9498b03, type: 2}
 --- !u!1 &1908279775
 GameObject:
   m_ObjectHideFlags: 0
