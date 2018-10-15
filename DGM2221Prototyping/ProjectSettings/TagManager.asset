@@ -5,8 +5,6 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
-  - TriggerLeft
-  - TriggerRight
   layers:
   - Default
   - TransparentFX
