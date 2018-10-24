@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - Trigger
+  - Platforms
   layers:
   - Default
   - TransparentFX
@@ -18,7 +19,7 @@ TagManager:
   - PostProcessing
   - Platforms
   - Player
-  - 
+  - Projectile
   - 
   - 
   - 
