@@ -12,15 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScreen.unity
     guid: db31eed2e6954ca4494059d6b922ea6e
   - enabled: 1
-    path: Assets/Scenes/LevelMenu.unity
-    guid: 2c265ac1f8d653d47aeebdddcfdf8fb1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 456fd89de06d9d04c8b9a0d453f5c5fc
   - enabled: 1
-    path: Assets/Scenes/MySideScroller.unity
-    guid: 6a9568865082a2a4db939371c2c4741f
+    path: Assets/Scenes/Level1.unity
+    guid: 8c979f396b1399847b8e87e8d064377a
   - enabled: 1
     path: Assets/Scenes/Level2.unity
-    guid: 18b7478820776b0418f79e2e12151762
+    guid: d27bd5e629a4f744482b414495911597
   - enabled: 1
     path: Assets/Scenes/Level3.unity
-    guid: 14b4c8e3f51ab7b4f92ed2b4215f064e
+    guid: 6a9568865082a2a4db939371c2c4741f
   m_configObjects: {}
