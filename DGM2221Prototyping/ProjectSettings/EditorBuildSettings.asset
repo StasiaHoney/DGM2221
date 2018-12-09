@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScreen.unity
     guid: db31eed2e6954ca4494059d6b922ea6e
   - enabled: 1
+    path: Assets/Scenes/LevelMenu.unity
+    guid: 2c265ac1f8d653d47aeebdddcfdf8fb1
+  - enabled: 1
     path: Assets/Scenes/MySideScroller.unity
     guid: 6a9568865082a2a4db939371c2c4741f
   - enabled: 1
